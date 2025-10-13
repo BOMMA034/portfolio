@@ -7,7 +7,7 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Niharika Bommadi",
+  title: "Niharika's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
