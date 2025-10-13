@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "67220c1c00e873d02ec6a0fa5b7ec002",
+    "revision": "cc8af0856c00562dc5d6348a9641460c",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "ad1b8cec6a1bc53b1ad4",
+    "revision": "a074ec101dbcc7f85125",
     "url": "/portfolio/static/css/main.220bd29b.chunk.css"
   },
   {
-    "revision": "1602e16eaeb57320e7a1",
-    "url": "/portfolio/static/js/2.a2b51bad.chunk.js"
+    "revision": "ec4ba95e04a428e84b5d",
+    "url": "/portfolio/static/js/2.47c06e8f.chunk.js"
   },
   {
-    "revision": "ad1b8cec6a1bc53b1ad4",
-    "url": "/portfolio/static/js/main.d416fa72.chunk.js"
+    "revision": "a074ec101dbcc7f85125",
+    "url": "/portfolio/static/js/main.f6bcdf9e.chunk.js"
   },
   {
     "revision": "4da0a47a3075ebdea740",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/portfolio/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "a1ba51444a37cd5905e31198bb33b5da",
+    "url": "/portfolio/static/media/GSA_logo.a1ba5144.png"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
@@ -46,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b5c77a6aed75cdad9489effd0d5ea411",
     "url": "/portfolio/static/media/GoogleSans-Regular.b5c77a6a.ttf"
+  },
+  {
+    "revision": "cf9dff5bca898862672fff54c316d575",
+    "url": "/portfolio/static/media/IC_logo.cf9dff5b.jpeg"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -192,8 +200,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/ibm_logo.d3fccbe1.png"
   },
   {
-    "revision": "571a8584e69ecfbe326c8b8385fbbf54",
-    "url": "/portfolio/static/media/iiitk_logo.571a8584.png"
+    "revision": "1740405a0b5176b507dbd5009a79828e",
+    "url": "/portfolio/static/media/infor_logo.1740405a.png"
   },
   {
     "revision": "29152cf756a1facead5393c32e373371",
@@ -244,6 +252,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/stanford_logo.2c497738.png"
   },
   {
+    "revision": "0f36b2a90df458fe953e801a0568ed25",
+    "url": "/portfolio/static/media/svuce_logo.0f36b2a9.png"
+  },
+  {
     "revision": "6ac91b161c2c9934a44f72d75d18142d",
     "url": "/portfolio/static/media/talksCardBack.6ac91b16.svg"
   },
@@ -258,5 +270,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
     "url": "/portfolio/static/media/ui_ux_design.d6363089.svg"
+  },
+  {
+    "revision": "94fc6eb9dee6061b31e5b96c003ddc90",
+    "url": "/portfolio/static/media/umd_logo.94fc6eb9.png"
   }
 ]);
