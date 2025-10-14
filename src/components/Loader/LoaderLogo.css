@@ -1,8 +1,11 @@
+/* Elegant dark navy background + fonts */
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display+SC:wght@700&family=Great+Vibes&family=Poppins:wght@400;700&display=swap");
+
 /* full-screen splash */
 .loader__container {
   height: 100vh;
   width: 100vw;
-  background: linear-gradient(135deg, #fff6d1, #ffd79a);
+  background-color: #0a1633; /* deep navy */
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -10,56 +13,70 @@
   overflow: hidden;
 }
 
-/* both name lines */
+/* initials symbol in center */
+.logo__symbol {
+  font-family: "Playfair Display SC", serif;
+  font-size: clamp(48px, 7vw, 100px);
+  font-weight: 700;
+  color: #ffffff;
+  border: 4px solid #ffffff;
+  border-radius: 16px;
+  padding: 20px 36px;
+  margin-bottom: 30px;
+  letter-spacing: 4px;
+  animation: fadeInScale 2.2s ease-in-out forwards;
+}
+
+/* name lines */
 .logo__wrapper {
   display: flex;
   gap: 6px;
 }
 
-/* little spacing between first and last name */
+/* small space between first and last name */
 .second__line {
   margin-top: 4px;
 }
 
 /* letters */
 .logo__text {
-  font-family: "Poppins", sans-serif;
+  font-family: "Playfair Display SC", serif;
   font-weight: 700;
   font-size: clamp(36px, 6vw, 68px);
-  color: #ff8c00;
+  color: #ffffff;
   opacity: 0;
   transform: translateY(25px);
   animation: popIn 1s ease forwards;
 }
 
-/* slightly darker color for second line */
+/* slightly lighter tone for last name */
 .logo__text.second {
-  color: #e57300;
+  color: #dce3f0;
 }
 
 /* animation delays for first name */
-.logo__wrapper:nth-child(1) .logo__text:nth-child(1) {
+.logo__wrapper:nth-child(2) .logo__text:nth-child(1) {
   animation-delay: 0.1s;
 }
-.logo__wrapper:nth-child(1) .logo__text:nth-child(2) {
+.logo__wrapper:nth-child(2) .logo__text:nth-child(2) {
   animation-delay: 0.2s;
 }
-.logo__wrapper:nth-child(1) .logo__text:nth-child(3) {
+.logo__wrapper:nth-child(2) .logo__text:nth-child(3) {
   animation-delay: 0.3s;
 }
-.logo__wrapper:nth-child(1) .logo__text:nth-child(4) {
+.logo__wrapper:nth-child(2) .logo__text:nth-child(4) {
   animation-delay: 0.4s;
 }
-.logo__wrapper:nth-child(1) .logo__text:nth-child(5) {
+.logo__wrapper:nth-child(2) .logo__text:nth-child(5) {
   animation-delay: 0.5s;
 }
-.logo__wrapper:nth-child(1) .logo__text:nth-child(6) {
+.logo__wrapper:nth-child(2) .logo__text:nth-child(6) {
   animation-delay: 0.6s;
 }
-.logo__wrapper:nth-child(1) .logo__text:nth-child(7) {
+.logo__wrapper:nth-child(2) .logo__text:nth-child(7) {
   animation-delay: 0.7s;
 }
-.logo__wrapper:nth-child(1) .logo__text:nth-child(8) {
+.logo__wrapper:nth-child(2) .logo__text:nth-child(8) {
   animation-delay: 0.8s;
 }
 
@@ -105,15 +122,31 @@
   }
 }
 
+/* fade + slight grow for initials */
+@keyframes fadeInScale {
+  0% {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.05);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
 /* tagline */
 .tagline {
-  font-family: "Poppins", sans-serif;
-  font-size: clamp(14px, 2vw, 18px);
-  color: #704100;
-  margin-top: 20px;
+  font-family: "Great Vibes", cursive;
+  font-size: clamp(16px, 2vw, 22px);
+  color: #dce3f0;
+  margin-top: 30px;
   opacity: 0;
   animation: fadeIn 1s ease forwards;
-  animation-delay: 2.1s;
+  animation-delay: 2.2s;
 }
 
 @keyframes fadeIn {

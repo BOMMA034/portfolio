@@ -5,6 +5,10 @@ import "./LoaderLogo.css";
 export default function LoaderLogo() {
   return (
     <div className="loader__container">
+      {/* Initials or logo (optional center letters) */}
+      <div className="logo__symbol">NB</div>
+
+      {/* Animated first and last name */}
       <div className="logo__wrapper">
         {"Niharika".split("").map((ch, i) => (
           <span key={i} className="logo__text">
@@ -21,7 +25,8 @@ export default function LoaderLogo() {
         ))}
       </div>
 
-      <p className="tagline">Building Ideas with Code 💡</p>
+      {/* Optional tagline */}
+      <p className="tagline">Creating Experiences Through Code 💫</p>
     </div>
   );
 }
