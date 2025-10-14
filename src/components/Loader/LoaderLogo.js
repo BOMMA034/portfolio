@@ -1,7 +1,7 @@
 // src/components/Loader/LoaderLogo.js
 import React from "react";
 import "./LoaderLogo.css";
-import bg from "../../assets/images/spiral_bg.png"; // full-screen background image
+import bg from "../../assets/images/spiral_bg.jpg"; // full-screen background image
 
 export default function LoaderLogo() {
   return (
