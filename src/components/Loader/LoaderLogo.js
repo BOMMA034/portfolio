@@ -1,32 +1,20 @@
-// src/components/Loader/LoaderLogo.js
 import React from "react";
 import "./LoaderLogo.css";
+import spiral from "../../assets/images/spiral_bg.png"; // your tech spiral background
 
 export default function LoaderLogo() {
   return (
     <div className="loader__container">
-      {/* Initials or logo (optional center letters) */}
-      <div className="logo__symbol">NB</div>
+      {/* Background spiral */}
+      <div className="spiral__wrapper">
+        <img src={spiral} alt="Spiral Background" className="spiral__image" />
 
-      {/* Animated first and last name */}
-      <div className="logo__wrapper">
-        {"Niharika".split("").map((ch, i) => (
-          <span key={i} className="logo__text">
-            {ch}
-          </span>
-        ))}
+        {/* Your initials inside spiral */}
+        <div className="initials">NB</div>
       </div>
 
-      <div className="logo__wrapper second__line">
-        {"Bommadi".split("").map((ch, i) => (
-          <span key={i} className="logo__text second">
-            {ch}
-          </span>
-        ))}
-      </div>
-
-      {/* Optional tagline */}
-      <p className="tagline">Creating Experiences Through Code 💫</p>
+      {/* Your name appearing on top */}
+      <h1 className="full__name">Niharika Bommadi</h1>
     </div>
   );
 }

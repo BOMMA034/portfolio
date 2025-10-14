@@ -1,134 +1,73 @@
-/* Elegant dark navy background + fonts */
-@import url("https://fonts.googleapis.com/css2?family=Playfair+Display+SC:wght@700&family=Great+Vibes&family=Poppins:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display+SC:wght@700&family=Great+Vibes&display=swap");
 
-/* full-screen splash */
 .loader__container {
   height: 100vh;
   width: 100vw;
-  background-color: #0a1633; /* deep navy */
+  background-color: #0a1633; /* Deep navy base */
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
   overflow: hidden;
+  position: relative;
 }
 
-/* initials symbol in center */
-.logo__symbol {
-  font-family: "Playfair Display SC", serif;
-  font-size: clamp(48px, 7vw, 100px);
-  font-weight: 700;
-  color: #ffffff;
-  border: 4px solid #ffffff;
-  border-radius: 16px;
-  padding: 20px 36px;
-  margin-bottom: 30px;
-  letter-spacing: 4px;
-  animation: fadeInScale 2.2s ease-in-out forwards;
-}
-
-/* name lines */
-.logo__wrapper {
+/* Spiral background */
+.spiral__wrapper {
+  position: relative;
+  width: 320px;
+  height: 320px;
   display: flex;
-  gap: 6px;
+  align-items: center;
+  justify-content: center;
+  animation: rotateSpiral 12s linear infinite;
 }
 
-/* small space between first and last name */
-.second__line {
-  margin-top: 4px;
+.spiral__image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  opacity: 0.3; /* keep subtle */
 }
 
-/* letters */
-.logo__text {
+/* NB initials */
+.initials {
+  position: absolute;
   font-family: "Playfair Display SC", serif;
-  font-weight: 700;
-  font-size: clamp(36px, 6vw, 68px);
+  font-size: 96px;
   color: #ffffff;
-  opacity: 0;
-  transform: translateY(25px);
-  animation: popIn 1s ease forwards;
+  text-shadow: 0 0 20px #74b9ff, 0 0 40px #0984e3;
+  letter-spacing: 4px;
+  animation: fadeInScale 3s ease forwards;
 }
 
-/* slightly lighter tone for last name */
-.logo__text.second {
+/* Your full name above everything */
+.full__name {
+  margin-top: 40px;
+  font-family: "Great Vibes", cursive;
+  font-size: 48px;
   color: #dce3f0;
+  opacity: 0;
+  animation: fadeInText 2s ease 2s forwards;
 }
 
-/* animation delays for first name */
-.logo__wrapper:nth-child(2) .logo__text:nth-child(1) {
-  animation-delay: 0.1s;
-}
-.logo__wrapper:nth-child(2) .logo__text:nth-child(2) {
-  animation-delay: 0.2s;
-}
-.logo__wrapper:nth-child(2) .logo__text:nth-child(3) {
-  animation-delay: 0.3s;
-}
-.logo__wrapper:nth-child(2) .logo__text:nth-child(4) {
-  animation-delay: 0.4s;
-}
-.logo__wrapper:nth-child(2) .logo__text:nth-child(5) {
-  animation-delay: 0.5s;
-}
-.logo__wrapper:nth-child(2) .logo__text:nth-child(6) {
-  animation-delay: 0.6s;
-}
-.logo__wrapper:nth-child(2) .logo__text:nth-child(7) {
-  animation-delay: 0.7s;
-}
-.logo__wrapper:nth-child(2) .logo__text:nth-child(8) {
-  animation-delay: 0.8s;
-}
-
-/* animation delays for last name */
-.second__line .logo__text:nth-child(1) {
-  animation-delay: 1.1s;
-}
-.second__line .logo__text:nth-child(2) {
-  animation-delay: 1.2s;
-}
-.second__line .logo__text:nth-child(3) {
-  animation-delay: 1.3s;
-}
-.second__line .logo__text:nth-child(4) {
-  animation-delay: 1.4s;
-}
-.second__line .logo__text:nth-child(5) {
-  animation-delay: 1.5s;
-}
-.second__line .logo__text:nth-child(6) {
-  animation-delay: 1.6s;
-}
-.second__line .logo__text:nth-child(7) {
-  animation-delay: 1.7s;
-}
-.second__line .logo__text:nth-child(8) {
-  animation-delay: 1.8s;
-}
-
-/* letter pop-in */
-@keyframes popIn {
+/* Spiral animation */
+@keyframes rotateSpiral {
   0% {
-    opacity: 0;
-    transform: translateY(30px);
-  }
-  60% {
-    opacity: 1;
-    transform: translateY(-6px);
+    transform: rotate(0deg);
   }
   100% {
-    opacity: 1;
-    transform: translateY(0);
+    transform: rotate(360deg);
   }
 }
 
-/* fade + slight grow for initials */
+/* Glow fade for initials */
 @keyframes fadeInScale {
   0% {
     opacity: 0;
-    transform: scale(0.8);
+    transform: scale(0.7);
   }
-  50% {
+  60% {
     opacity: 1;
     transform: scale(1.05);
   }
@@ -138,22 +77,14 @@
   }
 }
 
-/* tagline */
-.tagline {
-  font-family: "Great Vibes", cursive;
-  font-size: clamp(16px, 2vw, 22px);
-  color: #dce3f0;
-  margin-top: 30px;
-  opacity: 0;
-  animation: fadeIn 1s ease forwards;
-  animation-delay: 2.2s;
-}
-
-@keyframes fadeIn {
-  from {
+/* Smooth name fade */
+@keyframes fadeInText {
+  0% {
     opacity: 0;
+    transform: translateY(20px);
   }
-  to {
+  100% {
     opacity: 1;
+    transform: translateY(0);
   }
 }
