@@ -579,17 +579,17 @@ const experience = {
           duration: "August 2025 - Present",
           location: "Duluth, Minnesota, USA",
           description: [
-            "⚡Represented graduate students in UMD’s shared governance by serving on the Graduate Programs Committee and voicing student concerns.",
+            "⚡Represented graduate students in UMD shared governance by serving on the Graduate Programs Committee and voicing student concerns.",
             "⚡Co-led the Graduate Student Association (GSA), organizing meetings, events, and initiatives to enhance the graduate student experience.",
             "⚡Collaborated with faculty and the Student Government Association (SGA) to secure funding, plan activities, and strengthen campus community engagement.",
           ],
           color: "#4285F4",
         },
         {
-          title: "Graduate Student Representative for International club",
+          title: "Graduate Student Representative for International Club",
           company: "University of Minnesota, Duluth",
           company_url: "https://duluthumn.campusgroups.com/intlclub/home/",
-          logo_path: "IC_logo.png",
+          logo_path: "IC_logo.jpeg",
           duration: "August 2025 - Present",
           location: "Duluth, Minnesota, USA",
           description: [
