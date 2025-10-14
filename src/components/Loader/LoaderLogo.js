@@ -1,19 +1,18 @@
+// src/components/Loader/LoaderLogo.js
 import React from "react";
 import "./LoaderLogo.css";
-import spiral from "../../assets/images/spiral_bg.jpg"; // your tech spiral background
+import bg from "../../assets/images/spiral_bg.png"; // full-screen background image
 
 export default function LoaderLogo() {
   return (
-    <div className="loader__container">
-      {/* Background spiral */}
-      <div className="spiral__wrapper">
-        <img src={spiral} alt="Spiral Background" className="spiral__image" />
+    <div
+      className="loader__container"
+      style={{ backgroundImage: `url(${bg})` }}
+    >
+      {/* Initials */}
+      <div className="initials">NB</div>
 
-        {/* Your initials inside spiral */}
-        <div className="initials">NB</div>
-      </div>
-
-      {/* Your name appearing on top */}
+      {/* Your name */}
       <h1 className="full__name">Niharika Bommadi</h1>
     </div>
   );
