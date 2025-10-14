@@ -576,8 +576,8 @@ const experience = {
           company_url:
             "https://graduate-school.d.umn.edu/current-students/graduate-student-association",
           logo_path: "GSA_logo.png",
-          duration: "August 2025 - Pesent",
-          location: "Duluth , Minnesota, USA",
+          duration: "August 2025 - Present",
+          location: "Duluth, Minnesota, USA",
           description: [
             "⚡Represented graduate students in UMD’s shared governance by serving on the Graduate Programs Committee and voicing student concerns.",
             "⚡Co-led the Graduate Student Association (GSA), organizing meetings, events, and initiatives to enhance the graduate student experience.",
@@ -590,8 +590,8 @@ const experience = {
           company: "University of Minnesota, Duluth",
           company_url: "https://duluthumn.campusgroups.com/intlclub/home/",
           logo_path: "IC_logo.png",
-          duration: "August 2025 - Pesent",
-          location: "Duluth , Minnesota, USA",
+          duration: "August 2025 - Present",
+          location: "Duluth, Minnesota, USA",
           description: [
             "⚡Promote the club among international and domestic graduate students to increase awareness and involvement.",
             "⚡Collaborate with the Event Coordinator and leadership team to plan and organize events, including catering and logistics.",
@@ -661,14 +661,14 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
-    locality: "San Jose",
+    subtitle: "1410 Acre street, Duluth, MN, USA 55811",
+    locality: "Duluth",
     country: "USA",
-    region: "California",
-    postalCode: "95129",
-    streetAddress: "Saratoga Avenue",
+    region: "Minnesota",
+    postalCode: "55811",
+    streetAddress: "1410 Acre Street",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    location_map_link: "https://maps.app.goo.gl/9ZF2rGNr7r6bmxSJ8",
   },
   phoneSection: {
     title: "",
