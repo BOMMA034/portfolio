@@ -1,19 +1,18 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.128b9b79.chunk.css",
-    "main.js": "/portfolio/static/js/main.2303165d.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.2303165d.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.a3cae290.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a3cae290.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.bb75bcc5.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.bb75bcc5.js.map",
     "static/js/2.47c06e8f.chunk.js": "/portfolio/static/js/2.47c06e8f.chunk.js",
     "static/js/2.47c06e8f.chunk.js.map": "/portfolio/static/js/2.47c06e8f.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.c2526c1186a50f70618084fab559a98c.js": "/portfolio/precache-manifest.c2526c1186a50f70618084fab559a98c.js",
+    "precache-manifest.b367302c6584de41bb36c873e90050ce.js": "/portfolio/precache-manifest.b367302c6584de41bb36c873e90050ce.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.128b9b79.chunk.css.map": "/portfolio/static/css/main.128b9b79.chunk.css.map",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/GSA_logo.png": "/portfolio/static/media/GSA_logo.a1ba5144.png",
-    "static/media/IC_logo.jpeg": "/portfolio/static/media/IC_logo.cf9dff5b.jpeg",
+    "static/media/GSA Logo (1).png": "/portfolio/static/media/GSA Logo (1).a1ba5144.png",
     "static/media/address_image.svg": "/portfolio/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/portfolio/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/portfolio/static/media/animated_logo.dcd6dee2.svg",
@@ -35,6 +34,7 @@
     "static/media/googleAssistant.jpg": "/portfolio/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/portfolio/static/media/googleAssistant.a6addc3f.svg",
     "static/media/ibm_logo.png": "/portfolio/static/media/ibm_logo.d3fccbe1.png",
+    "static/media/images (1).jpeg": "/portfolio/static/media/images (1).cf9dff5b.jpeg",
     "static/media/infor_logo.png": "/portfolio/static/media/infor_logo.1740405a.png",
     "static/media/intel_logo.jpg": "/portfolio/static/media/intel_logo.29152cf7.jpg",
     "static/media/iu_logo.png": "/portfolio/static/media/iu_logo.60ed0bd3.png",
@@ -48,17 +48,17 @@
     "static/media/projects_image.svg": "/portfolio/static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "/portfolio/static/media/pwa.71408db7.png",
     "static/media/stanford_logo.png": "/portfolio/static/media/stanford_logo.2c497738.png",
-    "static/media/svuce_logo.png": "/portfolio/static/media/svuce_logo.0f36b2a9.png",
+    "static/media/svuce.png": "/portfolio/static/media/svuce.0f36b2a9.png",
     "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/portfolio/static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/tiktok_logo.png": "/portfolio/static/media/tiktok_logo.0993e324.png",
     "static/media/ui_ux_design.svg": "/portfolio/static/media/ui_ux_design.d6363089.svg",
-    "static/media/umd_logo.png": "/portfolio/static/media/umd_logo.94fc6eb9.png"
+    "static/media/umd.png": "/portfolio/static/media/umd.94fc6eb9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bb75bcc5.js",
     "static/js/2.47c06e8f.chunk.js",
     "static/css/main.128b9b79.chunk.css",
-    "static/js/main.2303165d.chunk.js"
+    "static/js/main.a3cae290.chunk.js"
   ]
 }

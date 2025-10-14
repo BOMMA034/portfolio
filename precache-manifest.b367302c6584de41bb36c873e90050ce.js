@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "490f95ed41c1c0b7e2a3a0fe23d1388f",
+    "revision": "aac4cc7113265b7af49966b438c8539d",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "24955cb2a05d3b8d60a7",
+    "revision": "e2875cb0b5973d832712",
     "url": "/portfolio/static/css/main.128b9b79.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.47c06e8f.chunk.js"
   },
   {
-    "revision": "24955cb2a05d3b8d60a7",
-    "url": "/portfolio/static/js/main.2303165d.chunk.js"
+    "revision": "e2875cb0b5973d832712",
+    "url": "/portfolio/static/js/main.a3cae290.chunk.js"
   },
   {
     "revision": "4da0a47a3075ebdea740",
@@ -25,7 +25,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "a1ba51444a37cd5905e31198bb33b5da",
-    "url": "/portfolio/static/media/GSA_logo.a1ba5144.png"
+    "url": "/portfolio/static/media/GSA Logo (1).a1ba5144.png"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
@@ -50,10 +50,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b5c77a6aed75cdad9489effd0d5ea411",
     "url": "/portfolio/static/media/GoogleSans-Regular.b5c77a6a.ttf"
-  },
-  {
-    "revision": "cf9dff5bca898862672fff54c316d575",
-    "url": "/portfolio/static/media/IC_logo.cf9dff5b.jpeg"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -200,6 +196,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/ibm_logo.d3fccbe1.png"
   },
   {
+    "revision": "cf9dff5bca898862672fff54c316d575",
+    "url": "/portfolio/static/media/images (1).cf9dff5b.jpeg"
+  },
+  {
     "revision": "1740405a0b5176b507dbd5009a79828e",
     "url": "/portfolio/static/media/infor_logo.1740405a.png"
   },
@@ -253,7 +253,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "0f36b2a90df458fe953e801a0568ed25",
-    "url": "/portfolio/static/media/svuce_logo.0f36b2a9.png"
+    "url": "/portfolio/static/media/svuce.0f36b2a9.png"
   },
   {
     "revision": "6ac91b161c2c9934a44f72d75d18142d",
@@ -273,6 +273,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "94fc6eb9dee6061b31e5b96c003ddc90",
-    "url": "/portfolio/static/media/umd_logo.94fc6eb9.png"
+    "url": "/portfolio/static/media/umd.94fc6eb9.png"
   }
 ]);
