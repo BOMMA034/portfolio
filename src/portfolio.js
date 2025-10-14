@@ -527,10 +527,8 @@ const experience = {
           logo_path: "infor_logo.png",
           duration: "August 2022 - August 2024",
           location: "Hyderabad, Telangana, India",
-          description: [
-            "⚡As a Development Operations Engineer at Infor, I had the opportunity to dive deep into managing AWS infrastructure. My role involved overseeing key components like EC2, VPC, S3, and EBS to ensure they operated at peak performance. One of my proudest achievements was automating various operational workflows using Python scripts alongside AWS Lambda functions. ",
-            "⚡Continuous monitoring was another critical aspect of my responsibilities. By implementing proactive solutions to identify network vulnerabilities early on. Collaborating closely with other teams allowed us to enhance our cloud security measures effectively—resulting in zero breaches during my tenure. The experience solidified my passion for cloud technologies and reinforced the importance of robust security practices",
-          ],
+          description:
+            "⚡As a Development Operations Engineer at Infor, I had the opportunity to dive deep into managing AWS infrastructure. My role involved overseeing key components like EC2, VPC, S3, and EBS to ensure they operated at peak performance. One of my proudest achievements was automating various operational workflows using Python scripts alongside AWS Lambda functions. \n⚡Continuous monitoring was another critical aspect of my responsibilities. By implementing proactive solutions to identify network vulnerabilities early on. Collaborating closely with other teams allowed us to enhance our cloud security measures effectively—resulting in zero breaches during my tenure. The experience solidified my passion for cloud technologies and reinforced the importance of robust security practices",
           color: "#000000",
         },
       ],
@@ -578,11 +576,8 @@ const experience = {
           logo_path: "GSA_logo.png",
           duration: "August 2025 - Present",
           location: "Duluth, Minnesota, USA",
-          description: [
-            "⚡Represented graduate students in UMD shared governance by serving on the Graduate Programs Committee and voicing student concerns.",
-            "⚡Co-led the Graduate Student Association (GSA), organizing meetings, events, and initiatives to enhance the graduate student experience.",
-            "⚡Collaborated with faculty and the Student Government Association (SGA) to secure funding, plan activities, and strengthen campus community engagement.",
-          ],
+          description:
+            "⚡ Represented graduate students in UMD shared governance by serving on the Graduate Programs Committee and voicing student concerns.\n⚡ Co-led the Graduate Student Association (GSA), organizing meetings, events, and initiatives to enhance the graduate student experience.\n⚡ Collaborated with faculty and the Student Government Association (SGA) to secure funding, plan activities, and strengthen campus community engagement.",
           color: "#4285F4",
         },
         {
@@ -592,11 +587,8 @@ const experience = {
           logo_path: "IC_logo.jpeg",
           duration: "August 2025 - Present",
           location: "Duluth, Minnesota, USA",
-          description: [
-            "⚡Promote the club among international and domestic graduate students to increase awareness and involvement.",
-            "⚡Collaborate with the Event Coordinator and leadership team to plan and organize events, including catering and logistics.",
-            "⚡Lead graduate student recruitment and gather feedback to continuously improve club activities and engagement.",
-          ],
+          description:
+            "⚡ Promote the club among international and domestic graduate students to increase awareness and involvement.\n⚡ Collaborate with the Event Coordinator and leadership team to plan and organize events, including catering and logistics.\n⚡ Lead graduate student recruitment and gather feedback to continuously improve club activities and engagement.",
           color: "#4285F4",
         },
       ],
