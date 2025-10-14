@@ -1,6 +1,6 @@
 import React from "react";
 import "./LoaderLogo.css";
-import spiral from "../../assets/images/spiral_bg.png"; // your tech spiral background
+import spiral from "../../assets/images/spiral_bg.jpg"; // your tech spiral background
 
 export default function LoaderLogo() {
   return (

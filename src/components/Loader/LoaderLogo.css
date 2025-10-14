@@ -1,75 +1,63 @@
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display+SC:wght@700&family=Great+Vibes&display=swap");
 
+/* Container fills full screen with background */
 .loader__container {
   height: 100vh;
   width: 100vw;
-  background-color: #0a1633; /* Deep navy base */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
+  align-items: center;
   overflow: hidden;
+  background-color: #0a1633; /* fallback navy */
   position: relative;
 }
 
-/* Spiral background */
-.spiral__wrapper {
-  position: relative;
-  width: 320px;
-  height: 320px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  animation: rotateSpiral 12s linear infinite;
-}
-
-.spiral__image {
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
-  opacity: 0.3; /* keep subtle */
-}
-
-/* NB initials */
-.initials {
+/* Optional overlay to slightly darken background for text clarity */
+.loader__container::before {
+  content: "";
   position: absolute;
-  font-family: "Playfair Display SC", serif;
-  font-size: 96px;
-  color: #ffffff;
-  text-shadow: 0 0 20px #74b9ff, 0 0 40px #0984e3;
-  letter-spacing: 4px;
-  animation: fadeInScale 3s ease forwards;
+  inset: 0;
+  background: rgba(10, 22, 51, 0.65);
+  z-index: 0;
 }
 
-/* Your full name above everything */
+/* NB initials — center and grow */
+.initials {
+  position: relative;
+  z-index: 1;
+  font-family: "Playfair Display SC", serif;
+  font-size: 6rem;
+  color: #ffffff;
+  text-shadow: 0 0 25px #4dabff, 0 0 60px #1e90ff;
+  opacity: 0;
+  animation: scaleUp 2.8s ease-out forwards;
+}
+
+/* Name below */
 .full__name {
-  margin-top: 40px;
+  position: relative;
+  z-index: 1;
+  margin-top: 20px;
   font-family: "Great Vibes", cursive;
-  font-size: 48px;
+  font-size: 2.5rem;
   color: #dce3f0;
   opacity: 0;
   animation: fadeInText 2s ease 2s forwards;
 }
 
-/* Spiral animation */
-@keyframes rotateSpiral {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
-}
-
-/* Glow fade for initials */
-@keyframes fadeInScale {
+/* Animation for initials scaling up */
+@keyframes scaleUp {
   0% {
     opacity: 0;
-    transform: scale(0.7);
+    transform: scale(0.2);
   }
-  60% {
+  50% {
     opacity: 1;
-    transform: scale(1.05);
+    transform: scale(1.1);
   }
   100% {
     opacity: 1;
@@ -77,11 +65,11 @@
   }
 }
 
-/* Smooth name fade */
+/* Fade in for name */
 @keyframes fadeInText {
   0% {
     opacity: 0;
-    transform: translateY(20px);
+    transform: translateY(15px);
   }
   100% {
     opacity: 1;
