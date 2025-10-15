@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36954434761a24554e67aa9c866f68b8",
+    "revision": "8db1dd5b4eee9b8f794498b4048e93a5",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "62c96264a978291f132b",
+    "revision": "99ac41e5aa462758ffcf",
     "url": "/portfolio/static/css/main.fa2b91d0.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.6059504e.chunk.js"
   },
   {
-    "revision": "62c96264a978291f132b",
-    "url": "/portfolio/static/js/main.9cf8bba0.chunk.js"
+    "revision": "99ac41e5aa462758ffcf",
+    "url": "/portfolio/static/js/main.35f53017.chunk.js"
   },
   {
     "revision": "4da0a47a3075ebdea740",
@@ -29,7 +29,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "a1ba51444a37cd5905e31198bb33b5da",
-    "url": "/portfolio/static/media/GSA Logo (1).a1ba5144.png"
+    "url": "/portfolio/static/media/GSA_logo.a1ba5144.png"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b5c77a6aed75cdad9489effd0d5ea411",
     "url": "/portfolio/static/media/GoogleSans-Regular.b5c77a6a.ttf"
+  },
+  {
+    "revision": "cf9dff5bca898862672fff54c316d575",
+    "url": "/portfolio/static/media/IC_logo.cf9dff5b.jpeg"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -198,10 +202,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
     "url": "/portfolio/static/media/ibm_logo.d3fccbe1.png"
-  },
-  {
-    "revision": "cf9dff5bca898862672fff54c316d575",
-    "url": "/portfolio/static/media/images (1).cf9dff5b.jpeg"
   },
   {
     "revision": "1740405a0b5176b507dbd5009a79828e",

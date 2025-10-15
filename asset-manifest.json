@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.fa2b91d0.chunk.css",
-    "main.js": "/portfolio/static/js/main.9cf8bba0.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.9cf8bba0.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.35f53017.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.35f53017.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.bb75bcc5.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.bb75bcc5.js.map",
     "static/js/2.6059504e.chunk.js": "/portfolio/static/js/2.6059504e.chunk.js",
     "static/js/2.6059504e.chunk.js.map": "/portfolio/static/js/2.6059504e.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.8f8c0711410c84a78d48874d5b2b1986.js": "/portfolio/precache-manifest.8f8c0711410c84a78d48874d5b2b1986.js",
+    "precache-manifest.5256913f4c7a90cf8cb4e0d5dc8dd22d.js": "/portfolio/precache-manifest.5256913f4c7a90cf8cb4e0d5dc8dd22d.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.fa2b91d0.chunk.css.map": "/portfolio/static/css/main.fa2b91d0.chunk.css.map",
     "static/media/AWS_logo.png": "/portfolio/static/media/AWS_logo.32b22e4c.png",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/GSA Logo (1).png": "/portfolio/static/media/GSA Logo (1).a1ba5144.png",
+    "static/media/GSA_logo.png": "/portfolio/static/media/GSA_logo.a1ba5144.png",
+    "static/media/IC_logo.jpeg": "/portfolio/static/media/IC_logo.cf9dff5b.jpeg",
     "static/media/address_image.svg": "/portfolio/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/portfolio/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/portfolio/static/media/animated_logo.dcd6dee2.svg",
@@ -35,7 +36,6 @@
     "static/media/googleAssistant.jpg": "/portfolio/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/portfolio/static/media/googleAssistant.a6addc3f.svg",
     "static/media/ibm_logo.png": "/portfolio/static/media/ibm_logo.d3fccbe1.png",
-    "static/media/images (1).jpeg": "/portfolio/static/media/images (1).cf9dff5b.jpeg",
     "static/media/infor_logo.png": "/portfolio/static/media/infor_logo.1740405a.png",
     "static/media/intel_logo.jpg": "/portfolio/static/media/intel_logo.29152cf7.jpg",
     "static/media/iu_logo.png": "/portfolio/static/media/iu_logo.60ed0bd3.png",
@@ -61,6 +61,6 @@
     "static/js/runtime-main.bb75bcc5.js",
     "static/js/2.6059504e.chunk.js",
     "static/css/main.fa2b91d0.chunk.css",
-    "static/js/main.9cf8bba0.chunk.js"
+    "static/js/main.35f53017.chunk.js"
   ]
 }
