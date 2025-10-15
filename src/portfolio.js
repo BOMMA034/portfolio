@@ -389,6 +389,15 @@ const certifications = {
       alt_name: "VLSI",
       color_code: "#D83B0199",
     },
+    {
+      title: "Research Involving Human Subjects",
+      subtitle: "- CITI Program",
+      logo_path: "CITI_logo.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1VnZpD6KF5q1RhzvoUTfwV8YQ2cEgdOlT/view?usp=sharing",
+      alt_name: "CITI Program",
+      color_code: "#4285F499",
+    },
   ],
 };
 
