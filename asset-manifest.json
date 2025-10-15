@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.fa2b91d0.chunk.css",
-    "main.js": "/portfolio/static/js/main.e425a765.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.e425a765.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.9cf8bba0.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.9cf8bba0.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.bb75bcc5.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.bb75bcc5.js.map",
     "static/js/2.6059504e.chunk.js": "/portfolio/static/js/2.6059504e.chunk.js",
     "static/js/2.6059504e.chunk.js.map": "/portfolio/static/js/2.6059504e.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.b3e872d07a04054a77c4058f3795cd7c.js": "/portfolio/precache-manifest.b3e872d07a04054a77c4058f3795cd7c.js",
+    "precache-manifest.8f8c0711410c84a78d48874d5b2b1986.js": "/portfolio/precache-manifest.8f8c0711410c84a78d48874d5b2b1986.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.fa2b91d0.chunk.css.map": "/portfolio/static/css/main.fa2b91d0.chunk.css.map",
     "static/media/AWS_logo.png": "/portfolio/static/media/AWS_logo.32b22e4c.png",
@@ -50,17 +50,17 @@
     "static/media/pwa.png": "/portfolio/static/media/pwa.71408db7.png",
     "static/media/spiral_bg.jpg": "/portfolio/static/media/spiral_bg.9161064f.jpg",
     "static/media/stanford_logo.png": "/portfolio/static/media/stanford_logo.2c497738.png",
-    "static/media/svuce.png": "/portfolio/static/media/svuce.0f36b2a9.png",
+    "static/media/svuce_logo.png": "/portfolio/static/media/svuce_logo.0f36b2a9.png",
     "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/portfolio/static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/tiktok_logo.png": "/portfolio/static/media/tiktok_logo.0993e324.png",
     "static/media/ui_ux_design.svg": "/portfolio/static/media/ui_ux_design.d6363089.svg",
-    "static/media/umd.png": "/portfolio/static/media/umd.94fc6eb9.png"
+    "static/media/umd_logo.png": "/portfolio/static/media/umd_logo.94fc6eb9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bb75bcc5.js",
     "static/js/2.6059504e.chunk.js",
     "static/css/main.fa2b91d0.chunk.css",
-    "static/js/main.e425a765.chunk.js"
+    "static/js/main.9cf8bba0.chunk.js"
   ]
 }

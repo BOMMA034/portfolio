@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fbd0758246ad6273470c69f04bc1458d",
+    "revision": "36954434761a24554e67aa9c866f68b8",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "f893e477e7d8b54fd47e",
+    "revision": "62c96264a978291f132b",
     "url": "/portfolio/static/css/main.fa2b91d0.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.6059504e.chunk.js"
   },
   {
-    "revision": "f893e477e7d8b54fd47e",
-    "url": "/portfolio/static/js/main.e425a765.chunk.js"
+    "revision": "62c96264a978291f132b",
+    "url": "/portfolio/static/js/main.9cf8bba0.chunk.js"
   },
   {
     "revision": "4da0a47a3075ebdea740",
@@ -261,7 +261,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "0f36b2a90df458fe953e801a0568ed25",
-    "url": "/portfolio/static/media/svuce.0f36b2a9.png"
+    "url": "/portfolio/static/media/svuce_logo.0f36b2a9.png"
   },
   {
     "revision": "6ac91b161c2c9934a44f72d75d18142d",
@@ -281,6 +281,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "94fc6eb9dee6061b31e5b96c003ddc90",
-    "url": "/portfolio/static/media/umd.94fc6eb9.png"
+    "url": "/portfolio/static/media/umd_logo.94fc6eb9.png"
   }
 ]);
