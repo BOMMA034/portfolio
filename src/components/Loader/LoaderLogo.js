@@ -13,7 +13,7 @@ export default function LoaderLogo() {
       <div className="initials">NB</div>
 
       {/* Your name */}
-      <h1 className="full__name">Niharika Bommadi</h1>
+      <h1 className="full__name">Niharika Bommadi's Portfolio</h1>
     </div>
   );
 }
