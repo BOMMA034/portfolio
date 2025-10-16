@@ -1,11 +1,11 @@
 {
   "data": [
     {
-      "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "id": "ivf-llm",
+      "name": "IVF Success Prediction with Large Language Models",
+      "createdAt": "2024-09-01T00:00:00Z",
+      "url": "https://github.com/BOMMA034/NLP",
+      "description": "TThis project explores how LLMs can predict IVF success using clinical data from HFEA. It fine-tunes the Mistral-7B-Instruct model using PEFT and quantization for accuracy and efficiency.",
       "isFork": false,
       "languages": [
         {
@@ -13,12 +13,12 @@
           "iconifyClass": "logos-python"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "Hugging Face Transformers",
+          "iconifyClass": "simple-icons:huggingface"
         },
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "LLMs",
+          "iconifyClass": "simple-icons:openai"
         }
       ]
     },
