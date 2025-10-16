@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "NiharikaBommadi",
   //nickname: "layman_brother",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Turning ideas into intuitive, scalable, and human-centered tech driven by AI, VR, and cloud.",
   resumeLink:
     "https://drive.google.com/file/d/1yGyACaKaKUiiR_JkLkBqnVqaJH5D92NO/view?usp=sharing",
   portfolio_repository: "https://github.com/BOMMA034/portfolio",
