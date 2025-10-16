@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Niharika's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Turning ideas into intuitive, scalable, and human-centered tech driven by AI, VR, and cloud.",
   og: {
     title: "Niharika Bommadi Portfolio",
     type: "website",
