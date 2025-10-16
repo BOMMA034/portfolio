@@ -406,7 +406,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship, Volunteership and Leadership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "specialize in Development Operations with hands-on experience in AWS infrastructure management, CI/CD automation, and system monitoring to ensure scalable and secure cloud environments. Alongside my technical career, I conduct research in Virtual Reality focused on spatial interaction, embodiment, and social presence, integrating immersive design with user experience. Beyond engineering and research, I mentor graduate students in thesis development and serve in leadership roles at the University of Minnesota Duluth, promoting collaboration, innovation, and community engagement across technical and academic fields.",
   header_image_path: "experience.svg",
   sections: [
     {
