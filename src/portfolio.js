@@ -421,7 +421,7 @@ const experience = {
           duration: "August 2022 - August 2024",
           location: "Hyderabad, Telangana, India",
           description:
-            "⚡As a Development Operations Engineer at Infor, I had the opportunity to dive deep into managing AWS infrastructure. My role involved overseeing key components like EC2, VPC, S3, and EBS to ensure they operated at peak performance. One of my proudest achievements was automating various operational workflows using Python scripts alongside AWS Lambda functions. \n⚡Continuous monitoring was another critical aspect of my responsibilities. By implementing proactive solutions to identify network vulnerabilities early on. Collaborating closely with other teams allowed us to enhance our cloud security measures effectively—resulting in zero breaches during my tenure. The experience solidified my passion for cloud technologies and reinforced the importance of robust security practices",
+            "⚡As a Development Operations Engineer at Infor, I had the opportunity to dive deep into managing AWS infrastructure. My role involved overseeing key components like EC2, VPC, S3, and EBS to ensure they operated at peak performance. One of my proudest achievements was automating various operational workflows using Python scripts alongside AWS Lambda functions.\n⚡Continuous monitoring was another critical aspect of my responsibilities. By implementing proactive solutions to identify network vulnerabilities early on. Collaborating closely with other teams allowed us to enhance our cloud security measures effectively—resulting in zero breaches during my tenure. The experience solidified my passion for cloud technologies and reinforced the importance of robust security practices",
           color: "#000000",
         },
       ],
@@ -430,15 +430,27 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Machine Learning Intern",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "May 2022 - Aug 2022",
-          location: "San Francisco, USA",
+          title: "Embedded Systems Intern",
+          company: "Verzeo (in association with MVARO)",
+          company_url:
+            "https://www.linkedin.com/company/verzeo/?originalSubdomain=in",
+          logo_path: "verzeo_logo.png",
+          duration: "March 2021 - April 2021",
+          location: "Remote",
           description:
             "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
           color: "#000000",
+        },
+        {
+          title: "Automation Intern",
+          company: "Siemens Center of Excellence, Sri Venkateswara University",
+          company_url: "https://svuniversity.edu.in/",
+          logo_path: "siemens_logo.png",
+          duration: "May 2021 - June 2021",
+          location: "Tirupati, India",
+          description:
+            "Completed a one-month internship on 'Automation - Basics of PLC, SCADA, and Induction Motors' under Siemens Center of Excellence, SVU College of Engineering, Tirupati. Gained hands-on experience in PLC programming, SCADA systems, and industrial automation concepts.",
+          color: "#0A9EDC",
         },
       ],
     },
