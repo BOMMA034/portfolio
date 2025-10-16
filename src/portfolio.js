@@ -458,14 +458,14 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Google Explore ML Facilitator",
-          company: "Google",
-          company_url: "https://about.google/",
-          logo_path: "google_logo.png",
-          duration: "June 2019 - April 2020",
-          location: "Hyderabad, Telangana",
+          title: "Graduate Mentor Program",
+          company: "University of Minnesota Duluth",
+          company_url: "https://www.d.umn.edu/",
+          logo_path: "umd_logo.png",
+          duration: "September 2025 - Present",
+          location: "Duluth, Minnesota, USA",
           description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+            "Mentoring a junior graduate student in developing and executing their thesis. Guiding through topic selection, literature review, IRB preparation, and thesis structuring using LaTeX. Meetings are conducted biweekly to review progress, address challenges, and refine research goals. Providing feedback on writing, citation management (Zotero), and user study planning.",
           color: "#4285F4",
         },
       ],
