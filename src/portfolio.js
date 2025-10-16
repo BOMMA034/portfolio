@@ -497,13 +497,13 @@ const projectsHeader = {
   avatar_image_path: "projects_image.svg",
 };
 
-const publicationsHeader = {
-  title: "Publications",
-  description: "Some of my published Articles, Blogs and Research.",
+const achievementsHeader = {
+  title: "Achievements",
+  description: "Some of my Achievments and Research.",
   avatar_image_path: "projects_image.svg",
 };
 
-const publications = {
+const achievements = {
   data: [
     {
       id: "neuro-symbolic-sudoku-solver",
@@ -571,7 +571,7 @@ export {
   certifications,
   experience,
   projectsHeader,
-  publicationsHeader,
-  publications,
+  achievementsHeader,
+  achievements,
   contactPageData,
 };
