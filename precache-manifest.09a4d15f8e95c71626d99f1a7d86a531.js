@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "298ee09149747c9bf12af6f501b6eda9",
+    "revision": "9dc6fcfbc9104db5794bf99dacdf4cc3",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "ffae5616c6b556b67ab0",
+    "revision": "4352f6e3532241f0b580",
     "url": "/portfolio/static/css/main.def3b962.chunk.css"
   },
   {
-    "revision": "d26cf0446d602fb692f5",
-    "url": "/portfolio/static/js/2.ffa7390d.chunk.js"
+    "revision": "533a2f2b32d02fe30e56",
+    "url": "/portfolio/static/js/2.5734d9a2.chunk.js"
   },
   {
-    "revision": "ffae5616c6b556b67ab0",
-    "url": "/portfolio/static/js/main.79e2a042.chunk.js"
+    "revision": "4352f6e3532241f0b580",
+    "url": "/portfolio/static/js/main.322a781b.chunk.js"
   },
   {
     "revision": "4da0a47a3075ebdea740",
@@ -250,6 +250,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71408db71465afd742233e4a96f06526",
     "url": "/portfolio/static/media/pwa.71408db7.png"
+  },
+  {
+    "revision": "85e3b329302c8d6dfee1e2adb0d3d2a4",
+    "url": "/portfolio/static/media/siemens_logo.85e3b329.png"
   },
   {
     "revision": "9161064f41edb5c4fe8b1320172de190",
