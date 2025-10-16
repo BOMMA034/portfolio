@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.def3b962.chunk.css",
-    "main.js": "/portfolio/static/js/main.e65cc552.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.e65cc552.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.79e2a042.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.79e2a042.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.bb75bcc5.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.bb75bcc5.js.map",
     "static/js/2.ffa7390d.chunk.js": "/portfolio/static/js/2.ffa7390d.chunk.js",
     "static/js/2.ffa7390d.chunk.js.map": "/portfolio/static/js/2.ffa7390d.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.635551d1135277de378af4675648f95f.js": "/portfolio/precache-manifest.635551d1135277de378af4675648f95f.js",
+    "precache-manifest.b8e42ca27f66100f2cb5012fcc4c8e7d.js": "/portfolio/precache-manifest.b8e42ca27f66100f2cb5012fcc4c8e7d.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.def3b962.chunk.css.map": "/portfolio/static/css/main.def3b962.chunk.css.map",
     "static/media/AWS_logo.png": "/portfolio/static/media/AWS_logo.32b22e4c.png",
@@ -61,6 +61,6 @@
     "static/js/runtime-main.bb75bcc5.js",
     "static/js/2.ffa7390d.chunk.js",
     "static/css/main.def3b962.chunk.css",
-    "static/js/main.e65cc552.chunk.js"
+    "static/js/main.79e2a042.chunk.js"
   ]
 }
