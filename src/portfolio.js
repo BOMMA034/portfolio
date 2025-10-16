@@ -506,25 +506,31 @@ const achievementsHeader = {
 const achievements = {
   data: [
     {
-      id: "neuro-symbolic-sudoku-solver",
-      name: "Neuro-Symbolic Sudoku Solver",
-      createdAt: "2023-07-02T00:00:00Z",
-      description: "Paper published in KDD KiML 2023",
-      url: "https://arxiv.org/abs/2307.00653",
+      id: "iot-iit-hyderabad",
+      name: "Internet of Things Workshop - IIT Hyderabad",
+      createdAt: "2019-08-18T00:00:00Z",
+      description:
+        "Participated in the Internet of Things Workshop conducted by Kyrion Technologies at IIT Hyderabad.",
+      url:
+        "https://drive.google.com/file/d/1iHMOZa6-mczSK8pBuXSUaeF_oipfj19O/view?usp=sharing",
     },
     {
-      id: "mdp-diffusion",
-      name: "MDP-Diffusion",
-      createdAt: "2023-09-19T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/mdp-diffusion/",
+      id: "iot-svu",
+      name: "Internet of Things Workshop - Sri Venkateswara University",
+      createdAt: "2020-03-01T00:00:00Z",
+      description:
+        "Completed a workshop on Internet of Things organized by Sri Venkateswara University, Tirupati.",
+      url:
+        "https://drive.google.com/file/d/1F0VOQDDLZ_tb0YrJ6Nes-LRwZaFo-eea/view?usp=sharing",
     },
     {
-      id: "consistency-models",
-      name: "Consistency Models",
-      createdAt: "2023-10-12T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/consistency-models/",
+      id: "entrepreneurial-ideation-iit-bhubaneswar",
+      name: "Entrepreneurial Ideation - IIT Bhubaneswar",
+      createdAt: "2019-11-20T00:00:00Z",
+      description:
+        "Participated in the Entrepreneurial Ideation (Elbal Round) at E-Summit ’19, IIT Bhubaneswar.",
+      url:
+        "https://drive.google.com/file/d/1RD-3uz-u5sfineSM9qX5UZW5jOZB6FBI/view?usp=sharing",
     },
   ],
 };
