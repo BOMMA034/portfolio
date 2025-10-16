@@ -5,7 +5,7 @@
       "name": "IVF Success Prediction with Large Language Models",
       "createdAt": "2024-09-01T00:00:00Z",
       "url": "https://github.com/BOMMA034/NLP",
-      "description": "TThis project explores how LLMs can predict IVF success using clinical data from HFEA. It fine-tunes the Mistral-7B-Instruct model using PEFT and quantization for accuracy and efficiency.",
+      "description": "This project explores how LLMs can predict IVF success using clinical data from HFEA. It fine-tunes the Mistral-7B-Instruct model using PEFT and quantization for accuracy and efficiency.",
       "isFork": false,
       "languages": [
         {
@@ -23,16 +23,24 @@
       ]
     },
     {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "id": "pantrypal",
+      "name": "PantryPal: A Mobile App for Low-Income Families",
+      "createdAt": "2025-02-01T00:00:00Z",
+      "url": "https://github.com/BOMMA034/PantryPalApp",
+      "description": "PantryPal helps low-income families plan nutritious meals using available ingredients. Built with Flutter and Firebase, it features recipe matching, pantry tracking, and local resource discovery.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "Flutter",
+          "iconifyClass": "logos-flutter"
+        }
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos-firebase"
+        },
+        {
+          "name": "Dart",
+          "iconifyClass": "logos-dart"
         }
       ]
     },
