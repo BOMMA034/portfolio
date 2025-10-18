@@ -5,7 +5,7 @@
       "name": "IVF Success Prediction with Large Language Models",
       "createdAt": "2024-09-01T00:00:00Z",
       "url": "https://github.com/BOMMA034/NLP",
-      "description": "This project explores how LLMs can predict IVF success using clinical data from HFEA. It fine-tunes the Mistral-7B-Instruct model using PEFT and quantization for accuracy and efficiency.",
+      "description": " 🧠 This project explores how LLMs can predict IVF success using clinical data from HFEA. It fine-tunes the Mistral-7B-Instruct model using PEFT and quantization for accuracy and efficiency.",
       "isFork": false,
       "languages": [
         {
@@ -27,7 +27,7 @@
       "name": "PantryPal: A Mobile App for Low-Income Families",
       "createdAt": "2025-02-01T00:00:00Z",
       "url": "https://github.com/BOMMA034/PantryPalApp",
-      "description": "PantryPal helps low-income families plan nutritious meals using available ingredients. Built with Flutter and Firebase, it features recipe matching, pantry tracking, and local resource discovery.",
+      "description": "🥫PantryPal helps low-income families plan nutritious meals using available ingredients. Built with Flutter and Firebase, it features recipe matching, pantry tracking, and local resource discovery.",
       "isFork": false,
       "languages": [
         {
@@ -45,86 +45,90 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "id": "crowdstrike-remediation",
+      "name": "CrowdStrike Driver Remediation on AWS",
+      "createdAt": "2024-07-01T00:00:00Z",
+      "url": "Confidential | Work done at Infor",
+      "description": "☁️ Automated large-scale remediation across AWS EC2 Windows servers to remove faulty CrowdStrike drivers. ⚙️ Integrated AWS Systems Manager (SSM) for zero-downtime patching and auto-reboots. 📦 Developed Python scripts with Boto3 for secure and reliable automation, reducing manual recovery time by 80%. 🔒 Ensured enterprise-grade cloud security compliance through proactive monitoring and validation.",
       "isFork": false,
       "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "AWS EC2",
+          "iconifyClass": "simple-icons:amazonec2"
+        },
+        {
+          "name": "Boto3",
+          "iconifyClass": "simple-icons:amazonaws"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "id": "ssm-agent-deployment",
+      "name": "Automated SSM Agent Deployment – Linux Servers",
+      "createdAt": "2023-10-01T00:00:00Z",
+      "url": "Confidential | Work done at Infor",
+      "description": "⚙️ Built a Python automation pipeline to deploy and configure SSM Agents on Linux servers using AWS Boto3. ☁️ Enabled centralized remote management, patching, and monitoring across multiple AWS accounts. 📊 Reduced manual setup effort by 90% and improved cloud visibility through SSM dashboards. 🧰 Integrated GitHub workflows for version control and deployment tracking.",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "AWS Systems Manager",
+          "iconifyClass": "simple-icons:amazonaws"
+        },
+        {
+          "name": "GitHub",
+          "iconifyClass": "fa-github"
+        }
+      ]
+    },
+    {
+      "id": "microsoft-defender-vulnerabilities",
+      "name": "Microsoft Defender Vulnerabilities Automation",
+      "createdAt": "2023-05-01T00:00:00Z",
+      "url": "Confidential | Work done at Infor",
+      "description": "🔒 Developed a Python-based automation framework to detect and remediate Microsoft Defender vulnerabilities across 500+ AWS servers. ⚙️ Used AWS Boto3 for real-time patch management and alert-based execution. 📦 Eliminated manual remediation by integrating automated ticket resolution workflows. 📈 Increased security compliance rate to 99% with proactive vulnerability monitoring.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "AWS Boto3",
+          "iconifyClass": "simple-icons:amazonaws"
+        },
+        {
+          "name": "Security Automation",
+          "iconifyClass": "simple-icons:microsoft"
+        }
+      ]
+    },
+    {
+      "id": "ssm-agent-upgrade",
+      "name": "Upgrading SSM Agents – Windows Servers",
+      "createdAt": "2022-12-01T00:00:00Z",
+      "url": "Confidential | Work done at Infor",
+      "description": "📊 Designed a Grafana-based monitoring system to track AWS SSM agent health across Windows servers. ⚙️ Automated upgrades and implemented real-time alerting for failed installations. 🧠 Added self-healing scripts that re-install failed agents via AWS Lambda triggers. ☁️ Improved observability and reduced downtime by 60% through predictive monitoring dashboards.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "AWS SSM",
+          "iconifyClass": "simple-icons:amazonaws"
+        },
+        {
+          "name": "Grafana",
+          "iconifyClass": "simple-icons:grafana"
         }
       ]
     }
