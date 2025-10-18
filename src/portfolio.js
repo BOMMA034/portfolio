@@ -406,7 +406,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship, Volunteership and Leadership",
   description:
-    "specialize in Development Operations with hands-on experience in AWS infrastructure management, CI/CD automation, and system monitoring to ensure scalable and secure cloud environments. Alongside my technical career, I conduct research in Virtual Reality focused on spatial interaction, embodiment, and social presence, integrating immersive design with user experience. Beyond engineering and research, I mentor graduate students in thesis development and serve in leadership roles at the University of Minnesota Duluth, promoting collaboration, innovation, and community engagement across technical and academic fields.",
+    "I specialize in Development Operations with hands-on experience in AWS infrastructure management, CI/CD automation, and system monitoring to ensure scalable and secure cloud environments. Alongside my technical career, I conduct research in Virtual Reality focused on spatial interaction, embodiment, and social presence, integrating immersive design with user experience. Beyond engineering and research, I mentor graduate students in thesis development and serve in leadership roles at the University of Minnesota Duluth, promoting collaboration, innovation, and community engagement across technical and academic fields.",
   header_image_path: "career_development.svg",
   sections: [
     {
@@ -551,7 +551,7 @@ const achievements = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "Profile_attire.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
@@ -570,7 +570,7 @@ const contactPageData = {
     region: "Minnesota",
     postalCode: "55811",
     streetAddress: "1410 Acre Street",
-    avatar_image_path: "address_image.svg",
+    avatar_image_path: "new_message.svg",
     location_map_link: "https://maps.app.goo.gl/9ZF2rGNr7r6bmxSJ8",
   },
   phoneSection: {
