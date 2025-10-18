@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.def3b962.chunk.css",
-    "main.js": "/portfolio/static/js/main.d5251e73.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.d5251e73.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.9151e204.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.9151e204.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.bb75bcc5.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.bb75bcc5.js.map",
-    "static/js/2.1c9ea14c.chunk.js": "/portfolio/static/js/2.1c9ea14c.chunk.js",
-    "static/js/2.1c9ea14c.chunk.js.map": "/portfolio/static/js/2.1c9ea14c.chunk.js.map",
+    "static/js/2.c69d14aa.chunk.js": "/portfolio/static/js/2.c69d14aa.chunk.js",
+    "static/js/2.c69d14aa.chunk.js.map": "/portfolio/static/js/2.c69d14aa.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.f70aa2aa2e1e0c26c7b8edf96bb67ecb.js": "/portfolio/precache-manifest.f70aa2aa2e1e0c26c7b8edf96bb67ecb.js",
+    "precache-manifest.1c5567f97ab2f16967d2231b3ec8f247.js": "/portfolio/precache-manifest.1c5567f97ab2f16967d2231b3ec8f247.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.def3b962.chunk.css.map": "/portfolio/static/css/main.def3b962.chunk.css.map",
     "static/media/AWS_logo.png": "/portfolio/static/media/AWS_logo.32b22e4c.png",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/GSA_logo.png": "/portfolio/static/media/GSA_logo.a1ba5144.png",
     "static/media/IC_logo.jpeg": "/portfolio/static/media/IC_logo.cf9dff5b.jpeg",
+    "static/media/Profile_attire.png": "/portfolio/static/media/Profile_attire.fa2f153c.png",
     "static/media/address_image.svg": "/portfolio/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/portfolio/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/portfolio/static/media/animated_logo.dcd6dee2.svg",
@@ -44,6 +45,7 @@
     "static/media/legato_logo.png": "/portfolio/static/media/legato_logo.c597fbde.png",
     "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.83ac24fb.svg",
     "static/media/muffito_logo.png": "/portfolio/static/media/muffito_logo.069938a8.png",
+    "static/media/new_message.svg": "/portfolio/static/media/new_message.56d986c3.svg",
     "static/media/nptel_logo.png": "/portfolio/static/media/nptel_logo.95a12a2b.png",
     "static/media/portfolio.gif": "/portfolio/static/media/portfolio.414dfbd9.gif",
     "static/media/programmer.svg": "/portfolio/static/media/programmer.5faf790b.svg",
@@ -62,8 +64,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.bb75bcc5.js",
-    "static/js/2.1c9ea14c.chunk.js",
+    "static/js/2.c69d14aa.chunk.js",
     "static/css/main.def3b962.chunk.css",
-    "static/js/main.d5251e73.chunk.js"
+    "static/js/main.9151e204.chunk.js"
   ]
 }
