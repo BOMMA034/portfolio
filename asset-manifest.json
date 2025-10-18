@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.def3b962.chunk.css",
-    "main.js": "/portfolio/static/js/main.0038fd25.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.0038fd25.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.d5251e73.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d5251e73.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.bb75bcc5.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.bb75bcc5.js.map",
-    "static/js/2.5734d9a2.chunk.js": "/portfolio/static/js/2.5734d9a2.chunk.js",
-    "static/js/2.5734d9a2.chunk.js.map": "/portfolio/static/js/2.5734d9a2.chunk.js.map",
+    "static/js/2.1c9ea14c.chunk.js": "/portfolio/static/js/2.1c9ea14c.chunk.js",
+    "static/js/2.1c9ea14c.chunk.js.map": "/portfolio/static/js/2.1c9ea14c.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.e1dc8d645fa5ffdd2a33e608f88eee93.js": "/portfolio/precache-manifest.e1dc8d645fa5ffdd2a33e608f88eee93.js",
+    "precache-manifest.f70aa2aa2e1e0c26c7b8edf96bb67ecb.js": "/portfolio/precache-manifest.f70aa2aa2e1e0c26c7b8edf96bb67ecb.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.def3b962.chunk.css.map": "/portfolio/static/css/main.def3b962.chunk.css.map",
     "static/media/AWS_logo.png": "/portfolio/static/media/AWS_logo.32b22e4c.png",
@@ -19,6 +19,7 @@
     "static/media/animated_ashutosh.png": "/portfolio/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/portfolio/static/media/animated_logo.dcd6dee2.svg",
     "static/media/blogs_image.svg": "/portfolio/static/media/blogs_image.058eca4c.svg",
+    "static/media/career_development.svg": "/portfolio/static/media/career_development.45878e3e.svg",
     "static/media/cloud_infrastructure.svg": "/portfolio/static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "/portfolio/static/media/codeInLogo.fee92c18.png",
     "static/media/contactMail.png": "/portfolio/static/media/contactMail.5f915405.png",
@@ -47,6 +48,7 @@
     "static/media/portfolio.gif": "/portfolio/static/media/portfolio.414dfbd9.gif",
     "static/media/programmer.svg": "/portfolio/static/media/programmer.5faf790b.svg",
     "static/media/projects_image.svg": "/portfolio/static/media/projects_image.b8ba9487.svg",
+    "static/media/proud_coder.svg": "/portfolio/static/media/proud_coder.79b2dade.svg",
     "static/media/pwa.png": "/portfolio/static/media/pwa.71408db7.png",
     "static/media/siemens_logo.png": "/portfolio/static/media/siemens_logo.85e3b329.png",
     "static/media/spiral_bg.jpg": "/portfolio/static/media/spiral_bg.9161064f.jpg",
@@ -60,8 +62,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.bb75bcc5.js",
-    "static/js/2.5734d9a2.chunk.js",
+    "static/js/2.1c9ea14c.chunk.js",
     "static/css/main.def3b962.chunk.css",
-    "static/js/main.0038fd25.chunk.js"
+    "static/js/main.d5251e73.chunk.js"
   ]
 }
