@@ -407,7 +407,7 @@ const experience = {
   subtitle: "Work, Internship, Volunteership and Leadership",
   description:
     "specialize in Development Operations with hands-on experience in AWS infrastructure management, CI/CD automation, and system monitoring to ensure scalable and secure cloud environments. Alongside my technical career, I conduct research in Virtual Reality focused on spatial interaction, embodiment, and social presence, integrating immersive design with user experience. Beyond engineering and research, I mentor graduate students in thesis development and serve in leadership roles at the University of Minnesota Duluth, promoting collaboration, innovation, and community engagement across technical and academic fields.",
-  header_image_path: "experience.svg",
+  header_image_path: "career_development.svg",
   sections: [
     {
       title: "Work",
@@ -505,8 +505,8 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
-  avatar_image_path: "projects_image.svg",
+    "From automating cloud operations to designing mobile apps and exploring VR interactions, my projects bring together engineering and creativity to craft meaningful, scalable, and human-centered technology.",
+  avatar_image_path: "proud_coder.svg",
 };
 
 const achievementsHeader = {
