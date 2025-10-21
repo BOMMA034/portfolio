@@ -11,8 +11,8 @@ export default class AddressImg extends Component {
           src={newMessage}
           alt="Contact illustration"
           style={{
-            width: "100%",
-            maxWidth: "500px",
+            width: "120%",
+            maxWidth: "600px",
             height: "auto",
             borderRadius: "10px",
             filter:
