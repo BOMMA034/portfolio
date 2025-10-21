@@ -512,7 +512,7 @@ const projectsHeader = {
 const achievementsHeader = {
   title: "Achievements",
   description: "Some of my Achievments and Research.",
-  avatar_image_path: "projects_image.svg",
+  avatar_image_path: "proud_coder.svg",
 };
 
 const achievements = {
