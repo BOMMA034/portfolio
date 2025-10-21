@@ -506,13 +506,13 @@ const projectsHeader = {
   title: "Projects",
   description:
     "From automating cloud operations to designing mobile apps and exploring VR interactions, my projects bring together engineering and creativity to craft meaningful, scalable, and human-centered technology.",
-  avatar_image_path: "proud_coder.svg",
+  avatar_image_path: "ideas_flow.svg",
 };
 
 const achievementsHeader = {
   title: "Achievements",
   description: "Some of my Achievments and Research.",
-  avatar_image_path: "proud_coder.svg",
+  avatar_image_path: "ideas_flow.svg",
 };
 
 const achievements = {
