@@ -74,236 +74,141 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
-      fileName: "DataScienceImg",
+      title: "Research & Immersive Technologies",
+      fileName: "VRResearchImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Conducting VR research on multisensory feedback and spatial presence at the University of Minnesota Duluth.",
+        "⚡ Building immersive Unity environments with avatars, haptic feedback, and sound to study comfort and realism in VR.",
+        "⚡ Exploring how visual, auditory, and tactile cues affect users’ perception of personal space and embodiment.",
       ],
       softwareSkills: [
         {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
+          skillName: "Unity",
+          fontAwesomeClassname: "simple-icons:unity",
+          style: { color: "#000000" },
         },
         {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
+          skillName: "C#",
+          fontAwesomeClassname: "simple-icons:csharp",
+          style: { color: "#68217A" },
         },
         {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
+          skillName: "VR",
+          fontAwesomeClassname: "simple-icons:oculus",
+          style: { color: "#1C1E20" },
+        },
+        {
+          skillName: "Haptics",
+          fontAwesomeClassname: "simple-icons:hapticssharp",
+          style: { color: "#2E7D32" },
+        },
+        {
+          skillName: "GitHub",
+          fontAwesomeClassname: "fab fa-github",
+          style: { color: "#181717" },
+        },
+      ],
+    },
+    {
+      title: "Cloud & DevOps Engineering",
+      fileName: "CloudInfraImg",
+      skills: [
+        "⚡ Designed and automated AWS workflows for EC2, VPC, IAM, and S3 to optimize cloud performance and security.",
+        "⚡ Developed Python automation scripts using Boto3 and Lambda for monitoring, patching, and remediation.",
+        "⚡ Created real-time monitoring dashboards using CloudWatch and Grafana to ensure zero downtime.",
+      ],
+      softwareSkills: [
+        {
+          skillName: "AWS",
+          fontAwesomeClassname: "simple-icons:amazonaws",
+          style: { color: "#FF9900" },
         },
         {
           skillName: "Python",
           fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
+          style: { color: "#3776AB" },
         },
         {
-          skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
+          skillName: "Lambda",
+          fontAwesomeClassname: "simple-icons:awslambda",
+          style: { color: "#FF9900" },
+        },
+        {
+          skillName: "Boto3",
+          fontAwesomeClassname: "simple-icons:python",
+          style: { color: "#FFD43B" },
+        },
+        {
+          skillName: "Grafana",
+          fontAwesomeClassname: "simple-icons:grafana",
+          style: { color: "#F46800" },
         },
       ],
     },
     {
-      title: "Full Stack Development",
-      fileName: "FullStackImg",
+      title: "Application Development & Human-Centered Design",
+      fileName: "AppDevImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Designed and developed PantryPal — a Flutter & Firebase app that helps low-income families plan healthy, affordable meals.",
+        "⚡ Implemented features like pantry item tracking, recipe matching, and user community spaces.",
+        "⚡ Focused on accessibility and inclusive UI/UX design through prototyping, testing, and iteration.",
       ],
       softwareSkills: [
-        {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
-          style: {
-            color: "#E34F26",
-          },
-        },
-        {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
-          style: {
-            color: "#1572B6",
-          },
-        },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
-        {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
-          style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
-          },
-        },
-        {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB",
-          },
-        },
-        {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "devicon-plain:nodejs-wordmark",
-          style: {
-            color: "#339933",
-          },
-        },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
-        },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
         {
           skillName: "Flutter",
           fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
-      ],
-    },
-    {
-      title: "Cloud Infra-Architecture",
-      fileName: "CloudInfraImg",
-      skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
-      ],
-      softwareSkills: [
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
-          style: {
-            color: "#FF9900",
-          },
-        },
-        {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
-          style: {
-            color: "#0089D6",
-          },
+          style: { color: "#02569B" },
         },
         {
           skillName: "Firebase",
           fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
-          },
+          style: { color: "#FFCA28" },
         },
         {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
+          skillName: "Figma",
+          fontAwesomeClassname: "fab fa-figma",
+          style: { color: "#F24E1E" },
         },
         {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
+          skillName: "Dart",
+          fontAwesomeClassname: "simple-icons:dart",
+          style: { color: "#0175C2" },
         },
         {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
-        },
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5",
-          },
+          skillName: "Canva",
+          fontAwesomeClassname: "simple-icons:canva",
+          style: { color: "#00C4CC" },
         },
       ],
     },
     {
-      title: "UI/UX Design",
-      fileName: "DesignImg",
+      title: "AI & Data-Driven Research",
+      fileName: "AIResearchImg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ Built IVF Success Prediction model using Mistral-7B and PEFT fine-tuning for interpretable AI in reproductive healthcare.",
+        "⚡ Experienced in natural language preprocessing, model evaluation, and transformer-based architectures.",
+        "⚡ Applying LLMs for practical problem-solving across NLP, healthcare, and intelligent data systems.",
       ],
       softwareSkills: [
         {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
+          skillName: "Python",
+          fontAwesomeClassname: "ion-logo-python",
+          style: { color: "#3776AB" },
         },
         {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
-          style: {
-            color: "#F24E1E",
-          },
+          skillName: "Hugging Face",
+          fontAwesomeClassname: "simple-icons:huggingface",
+          style: { color: "#FFCA28" },
         },
         {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
+          skillName: "PEFT",
+          fontAwesomeClassname: "simple-icons:pytorch",
+          style: { color: "#EE4C2C" },
         },
         {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
-          },
+          skillName: "Mistral-7B",
+          fontAwesomeClassname: "simple-icons:ai",
+          style: { color: "#0A66C2" },
         },
       ],
     },
