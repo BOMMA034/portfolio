@@ -11,10 +11,10 @@ export default class ExperienceImg extends Component {
           src={experienceImage}
           alt="Experience illustration"
           style={{
-            width: "120%", // make it a little bigger
-            maxWidth: "600px", // adjust as you like
+            width: "130%", // make it a little bigger
+            maxWidth: "650px", // adjust as you like
             height: "auto",
-            marginTop: "-20px", // optional: to align vertically with text
+            marginTop: "-40px", // optional: to align vertically with text
             borderRadius: "10px",
             filter:
               theme.name === "dark" ? "brightness(0.9) contrast(1.1)" : "none",
