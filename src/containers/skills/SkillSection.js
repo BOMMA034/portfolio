@@ -7,6 +7,7 @@ import VRResearchImg from "./VRResearchImg";
 import AppDevImg from "./AppDevImg";
 import CloudInfraImg from "./CloudInfraImg";
 import DesignImg from "./DesignImg";
+import AIResearchImg from "./AIResearchImg";
 
 function GetSkillSvg(props) {
   if (props.fileName === "VRResearchImg")
@@ -15,6 +16,8 @@ function GetSkillSvg(props) {
     return <AppDevImg theme={props.theme} />;
   else if (props.fileName === "CloudInfraImg")
     return <CloudInfraImg theme={props.theme} />;
+  else if (props.fileName === "AIResearchImg")
+    return <AIResearchImg theme={props.theme} />;
   return <DesignImg theme={props.theme} />;
 }
 
