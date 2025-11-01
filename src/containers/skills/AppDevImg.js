@@ -8,9 +8,12 @@ export default class AppDevImg extends Component {
         src={appDev}
         alt="App Development Illustration"
         style={{
-          width: "100%",
-          maxWidth: "700px",
-          marginTop: "-20px",
+          width: "70%",
+          maxWidth: "450px",
+          height: "auto",
+          objectFit: "contain",
+          margin: "auto",
+          display: "block",
         }}
       />
     );

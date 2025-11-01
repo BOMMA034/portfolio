@@ -6,11 +6,14 @@ export default class AIResearchImg extends Component {
     return (
       <img
         src={aiResearch}
-        alt="AI Research Illustration"
+        alt="AI & Data-Driven Research Illustration"
         style={{
-          width: "100%",
-          maxWidth: "700px",
-          marginTop: "-20px",
+          width: "70%",
+          maxWidth: "450px",
+          height: "auto",
+          objectFit: "contain",
+          margin: "auto",
+          display: "block",
         }}
       />
     );
