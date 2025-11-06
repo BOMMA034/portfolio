@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.def3b962.chunk.css",
+    "main.css": "/portfolio/static/css/main.6d3fe3fb.chunk.css",
     "main.js": "/portfolio/static/js/main.7524675a.chunk.js",
     "main.js.map": "/portfolio/static/js/main.7524675a.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.bb75bcc5.js",
@@ -8,9 +8,9 @@
     "static/js/2.f5b526d2.chunk.js": "/portfolio/static/js/2.f5b526d2.chunk.js",
     "static/js/2.f5b526d2.chunk.js.map": "/portfolio/static/js/2.f5b526d2.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.d5fb5c782b2f0cda1229c5c3516b3f90.js": "/portfolio/precache-manifest.d5fb5c782b2f0cda1229c5c3516b3f90.js",
+    "precache-manifest.a331c570a4d8e129c02bd9d04dbd95a1.js": "/portfolio/precache-manifest.a331c570a4d8e129c02bd9d04dbd95a1.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.def3b962.chunk.css.map": "/portfolio/static/css/main.def3b962.chunk.css.map",
+    "static/css/main.6d3fe3fb.chunk.css.map": "/portfolio/static/css/main.6d3fe3fb.chunk.css.map",
     "static/media/AIResearchImg.svg": "/portfolio/static/media/AIResearchImg.595e1801.svg",
     "static/media/AWS_logo.png": "/portfolio/static/media/AWS_logo.32b22e4c.png",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -69,7 +69,7 @@
   "entrypoints": [
     "static/js/runtime-main.bb75bcc5.js",
     "static/js/2.f5b526d2.chunk.js",
-    "static/css/main.def3b962.chunk.css",
+    "static/css/main.6d3fe3fb.chunk.css",
     "static/js/main.7524675a.chunk.js"
   ]
 }
