@@ -1,6 +1,11 @@
 .skills-main-div {
   display: flex;
+  flex-direction: row;
+  align-items: center; /* centers image and text vertically */
+  justify-content: center;
+  flex-wrap: wrap; /* responsive layout */
   overflow: hidden;
+  margin: 60px 0;
 }
 
 .skills-header {
@@ -17,6 +22,9 @@
 .skills-text-div {
   margin-left: 50px;
   font-family: "Google Sans Regular";
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* ✅ centers text vertically */
 }
 
 .skills-main-div > * {
@@ -24,10 +32,20 @@
   margin-bottom: 30px;
 }
 
+.skills-image-div {
+  display: flex;
+  justify-content: center;
+  align-items: center; /* ✅ vertically center inside its column */
+  padding: 10px;
+}
+
 .skills-image-div > * {
-  max-width: 100%;
+  width: 70%;
+  max-width: 450px;
   height: auto;
-  margin-top: 100px;
+  object-fit: contain;
+  margin: auto; /* ✅ centers horizontally */
+  display: block;
 }
 
 .skills-heading {
