@@ -460,12 +460,11 @@ const contactPageData = {
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
-  blogSection: {
-    title: "Blogs",
+  demoSection: {
+    title: "Demo of My Work",
     subtitle:
-      "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
-    avatar_image_path: "blogs_image.svg",
+      "Watch a demonstration of my projects and skills in action. Click the button below to view a video showcasing my work, including project walkthroughs, technical implementations, and key achievements.",
+    videoLink: "/videos/demo-video.mp4",
   },
   addressSection: {
     title: "Address",
